@@ -21,6 +21,7 @@
 		"instrutor": "Gustavo",
 		"alunos":
 		[
+			"aluno":
 			{
 				"nome": "ALESSANDRO MARTINS NOGUEIRA",
 				"cpf": "246.119.258-89",
