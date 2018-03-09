@@ -19,9 +19,8 @@
 		"nome": "Etecri Santos",
 		"endereco": "Avenida Afonso Schimidth, 1171 - Santos",
 		"instrutor": "Gustavo",
-		"alunos":
-		[
-			"aluno":
+		"alunos": [
+			
 			{
 				"nome": "ALESSANDRO MARTINS NOGUEIRA",
 				"cpf": "246.119.258-89",
@@ -30,7 +29,6 @@
 				"justificada": "00:00",
 				"situacao": "Matriculado"
 			},
-			"aluno":
 			{
 				"nome": "Carlos roberto aguiar",
 				"cpf": "262.321.218-05",
@@ -39,7 +37,6 @@
 				"justificada": "00:00",
 				"situacao": "Matriculado"
 			},
-			"aluno":
 			{
 				"nome": "cesar neves camargo",
 				"cpf": "070.133.758-37",
@@ -48,7 +45,6 @@
 				"justificada": "00:00",
 				"situacao": "Matriculado"
 			},
-			"aluno":
 			{
 				"nome": "CLODOALDO FERREIRA DE OLIVEIRA",
 				"cpf": "256.542.558-94",
